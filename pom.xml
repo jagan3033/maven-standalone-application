@@ -57,7 +57,7 @@
 	 <repository>
 	  <id>nexus</id>
 	  <name>Nexus Release Snapshot</name>
-	  <url>http://adpro-004982:8081/repository/pipedscript-releases/</url>
+	  <url>http://adpro-004982:8081/repository/pipedscript-release//</url>
 	 </repository>
  
 	<snapshotRepository>
